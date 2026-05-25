@@ -44,16 +44,16 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rafa-evvzo1533&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafa-evvzo1533&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Contacto
-- 💬 Discord: TU_DISCORD
-- 📧 Email: TU_EMAIL
-- 🌐 Portfolio: TU_WEB
+- 💬 Discord: evvzo.
+- 📧 Email: marquezrafa2@icloud.com
+- 🌐 Portfolio: rafaelmarquez.online
 
 ---
 

@@ -27,18 +27,21 @@
 - Node.js
 - MySQL
 
+### Mobile
+- Kotlin
+- Desarrollo de apps
+
 ### Otros
+- Lua
 - Git & GitHub
 - APIs REST
-- XAMPP / Servidores locales
-
 ---
 
 ## 📌 Proyectos destacados
-- 🚗 Sistema de concesionario (MTA:SA)
-- 🎫 Sistema de tickets en Discord
-- 🌐 Portales web dinámicos con PHP + MySQL
-- 📊 Bots automatizados para Discord
+- 🚗 Sistema de alquileres para inmobiliaria
+- 🎫 Web para gestión de gimnasio
+- 🌐 Tiendas online (PrestaShop, WooCommerce)
+- 📊 Aplicaciones móviles
 
 ---
 
